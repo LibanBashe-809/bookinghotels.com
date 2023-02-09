@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+H1{
+    color: brown;
+    text-align: center;
+}
+.header{
+    min-height: 100vh;
+    width: 100%;
+   background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(images/240647238_804205673584519_2394652904340314759_n.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;  
+}
